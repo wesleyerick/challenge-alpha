@@ -92,4 +92,4 @@ O **Challenge Alpha** foi desenvolvido utilizando as seguintes tecnologias e bib
 
 Obrigado por avaliar o projeto, se tiver algum elogio, sugestão ou melhoria dos conceitos apresentados, ficarei imensamente feliz com sua ajuda para evoluir cara vez mais!
 
-Muito brigado! 🚀
+Muito obrigado! 🚀
